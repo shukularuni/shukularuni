@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hiii! I'm Shukularuni :3
+(* shukularuni is not my real name tho)
 
-<!--
-**shukularuni/shukularuni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub page! I'm just here to help out and share my knowledge in the world of tech. Here's a little bit about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on creating guides for stuff like cybersecurity challenges, command references, programming languages, etc.
+- 🌱 I’m currently learning more about advanced web security and ethical hacking.
+- 👯 I’m looking to collaborate on cool projects related to cybersecurity and web development.
+- 🤔 I’m looking for help with exploring new cybersecurity tools and techniques.
+- 💬 Ask me about web development, cybersecurity, reverse engineering, forensics, and tech puzzles.
+- 📫 How to reach me: [shukularuni@gmail.com](mailto:shukularuni@gmail.com)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I adore cute things, love adding a touch of cuteness to everything I do, and I absolutely love cats! :3:3:3:3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Looking forward to doing all of this! :3
